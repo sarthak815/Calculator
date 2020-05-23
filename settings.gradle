@@ -1,0 +1,2 @@
+rootProject.name='Advance_Calculator'
+include ':app'
